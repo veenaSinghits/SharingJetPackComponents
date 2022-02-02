@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharingJetPackComponent</string>
+    <string name="message">Message</string>
+    <string name="button">Share</string>
+    <string name="receivedtext">ReceivedText</string>
+</resources>
